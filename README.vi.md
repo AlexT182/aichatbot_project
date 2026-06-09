@@ -14,23 +14,23 @@
 </p>
 
 <p align="center">
-  <img alt="Platform" src="https://img.shields.io/badge/N%E1%BB%81n%20t%E1%BA%A3ng-Hosted%20Web-0F766E?style=flat-square">
-  <img alt="Model" src="https://img.shields.io/badge/M%C3%B4%20h%C3%ACnh-Multi--channel%20AI%20Sales-1D4ED8?style=flat-square">
-  <img alt="Audience" src="https://img.shields.io/badge/%C4%90%E1%BB%91i%20t%C6%B0%E1%BB%A3ng-Ecommerce%20%26%20Sales%20Teams-F59E0B?style=flat-square">
+  <img alt="Nền tảng" src="https://img.shields.io/badge/N%E1%BB%81n%20t%E1%BA%A3ng-Web%20Hosted-0F766E?style=flat-square">
+  <img alt="Mô hình" src="https://img.shields.io/badge/M%C3%B4%20h%C3%ACnh-AI%20Sales%20%C4%91a%20k%C3%AAnh-1D4ED8?style=flat-square">
+  <img alt="Đối tượng" src="https://img.shields.io/badge/%C4%90%E1%BB%91i%20t%C6%B0%E1%BB%A3ng-Ecommerce%20%26%20%C4%90%E1%BB%99i%20Sales-F59E0B?style=flat-square">
   <img alt="License" src="https://img.shields.io/badge/License-Closed--source-7C3AED?style=flat-square">
 </p>
 
 <p align="center">
-  <a href="README.md"><strong>Read in English</strong></a> |
+  <a href="README.md"><strong>Đọc bản tiếng Anh</strong></a> |
   <strong>Đọc bằng tiếng Việt</strong>
 </p>
 
 <p align="center">
-  <a href="https://chatbot.alphabot.vn/"><strong>Live Site</strong></a>
+  <a href="https://chatbot.alphabot.vn/"><strong>Trang Live</strong></a>
   |
   <a href="SUPPORT.md"><strong>Hỗ Trợ</strong></a>
   |
-  <a href="docs/FAQ.md"><strong>FAQ</strong></a>
+  <a href="docs/FAQ.md"><strong>Câu Hỏi Thường Gặp</strong></a>
 </p>
 
 ## Cú Chuyển Lớn
@@ -126,7 +126,7 @@ Vì vậy sản phẩm này giống một lớp vận hành hơn là chỉ một
 
 ### Đã Có Sẵn
 
-- Hosted marketing site
+- Trang marketing hosted
 - Login và account flow
 - Live chat surface
 - Admin dashboard
@@ -159,11 +159,11 @@ Xem [docs/PRIVACY.md](docs/PRIVACY.md) để đọc bản privacy tóm tắt.
 - Chat layer: AI-assisted customer conversation
 - Admin layer: dashboard, products, knowledge, prompts, rules, channels, leads, analytics, billing, team
 
-## Availability
+## Tình Trạng Phát Hành
 
 - Public site: https://chatbot.alphabot.vn/
-- Product type: hosted AI sales platform
-- Current state: public-facing product with authenticated admin workspace
+- Loại sản phẩm: nền tảng AI sales hosted
+- Trạng thái hiện tại: sản phẩm public-facing với admin workspace có xác thực
 
 ## Bắt Đầu Trong 3 Bước
 
@@ -173,14 +173,14 @@ Xem [docs/PRIVACY.md](docs/PRIVACY.md) để đọc bản privacy tóm tắt.
 
 ## Bắt Đầu Từ Đây
 
-- `Live site`: https://chatbot.alphabot.vn/
+- `Trang Live`: https://chatbot.alphabot.vn/
 - `Hỗ Trợ`: [SUPPORT.md](SUPPORT.md)
-- `FAQ`: [docs/FAQ.md](docs/FAQ.md)
-- `Roadmap`: [docs/ROADMAP.md](docs/ROADMAP.md)
+- `Câu Hỏi Thường Gặp`: [docs/FAQ.md](docs/FAQ.md)
+- `Lộ Trình`: [docs/ROADMAP.md](docs/ROADMAP.md)
 
 ## Hỗ Trợ
 
-- Email: `admin@alphabot.vn`
+- Email liên hệ: `admin@alphabot.vn`
 
 ## Khám Phá AIChatbot
 
@@ -190,7 +190,7 @@ Xem [docs/PRIVACY.md](docs/PRIVACY.md) để đọc bản privacy tóm tắt.
 </p>
 
 <p align="center">
-  <a href="https://chatbot.alphabot.vn/"><strong>Mở Live Site</strong></a>
+  <a href="https://chatbot.alphabot.vn/"><strong>Mở Trang Live</strong></a>
   |
   <a href="SUPPORT.md"><strong>Liên Hệ Hỗ Trợ</strong></a>
 </p>
@@ -219,7 +219,7 @@ Nó không bao gồm:
 Repo này chỉ nên chứa:
 
 - product overview
-- FAQ
+- câu hỏi thường gặp
 - privacy summary
 - roadmap
 - support và security contacts
